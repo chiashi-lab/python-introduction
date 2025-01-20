@@ -1,2 +1,2 @@
 # python-introduction
-# python-introduction
+本レポジトリではグラフェンやカーボンナノチューブの描画課題をこなすことでgitやpythonの基礎を学びます。
